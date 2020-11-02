@@ -8,6 +8,7 @@ public class MwtApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MwtApplication.class, args);
+		
 	}
 
 }
